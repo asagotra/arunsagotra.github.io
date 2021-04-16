@@ -15,7 +15,7 @@ formspree_endpoint: https://formspree.io/f/mdopzbop
 # The one at the bottom takes precedence.
 # color-scheme: orange
 # color-scheme: pink
- color-scheme: purple
+color-scheme: purple
 #color-scheme: blue
 # color-scheme: green
 
