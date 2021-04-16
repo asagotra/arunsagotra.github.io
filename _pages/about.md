@@ -6,7 +6,6 @@ description: Ph.D. in Computational Materials Science and Engineering (Universit
 ---
 ### Education
 <div class="column-2a">
-  #<h2></h2>
   <table class="table-style">
       <tr>
         <td>Ph.D. in Computational Materials Science and Engineering (UNSW, Sydney)</td>
