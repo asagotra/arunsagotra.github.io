@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
-description: I care about my readers' opinions. Please leave a note or just say hello.
+title: About
+permalink: /about/
+description: Ph.D. in Computational Materials Science and Engineering (University of New South Wales, Sydney)
 ---
-
+<!-- 
 ### Write to me
 Please write to me your thoughts or if you just want to get connected
 
@@ -25,7 +25,7 @@ Please write to me your thoughts or if you just want to get connected
 </form>
 
 <br>
-<br>
+<br>-->
 
 
 <!-- {% highlight html %}
