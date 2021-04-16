@@ -3,7 +3,7 @@ title: Low cost prototype of Smart Building Energy Management System (s-BEMS).
 image: /assets/images/projects/australia_ghg.png
 # description: Mortgage Payment Calculation Panel App
 # company: Personal Project
-date: April May
+date:  March 2021
 layout: post
 ---
 ## Why need a low cost s-BEMS?
