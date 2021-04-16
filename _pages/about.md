@@ -12,7 +12,7 @@ description: Ph.D. in Computational Materials Science and Engineering (Universit
         <td>2016-2019</td>
       </tr>
       <tr>
-        <td>M.Tech in Solid State Devices (IIT, Roorke)</td>
+        <td>M.Tech in Solid State Devices (IIT, Roorkee)</td>
         <td>2014-2016</td>
       </tr>
     </table>
