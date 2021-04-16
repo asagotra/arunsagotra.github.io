@@ -3,7 +3,7 @@ title: Data driven design of Clean Energy Devices
 image: /assets/images/projects/energy_devices.png
 # description: Mortgage Payment Calculation Panel App
 # company: Personal Project
-date: April 2019
+date: December 2019
 layout: post
 ---
 
