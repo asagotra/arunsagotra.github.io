@@ -62,8 +62,8 @@ social:
   #     link: https://twitter.com/
 
 
-expertise:
-  - title: [Python, R, Machine Learning, Deep Learning]
+# expertise:
+#   - title: Python
     #level: 
     #color: rgb(247, 205, 182)
 
