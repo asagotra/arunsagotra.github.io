@@ -4,6 +4,19 @@ title: About
 permalink: /about/
 description: Ph.D. in Computational Materials Science and Engineering (University of New South Wales, Sydney)
 ---
+<div class="column-2a">
+  <h2>Education</h2>
+    <table class="table-style">
+      <tr>
+        <td>Ph.D.</td>
+        <td>2019</td>
+      </tr>
+      <tr>
+        <td>M.Tech</td>
+        <td>2014-2016</td>
+      </tr>
+    </table>
+</div>
 <!-- 
 ### Write to me
 Please write to me your thoughts or if you just want to get connected
