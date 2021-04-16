@@ -62,44 +62,44 @@ social:
   #     link: https://twitter.com/
 
 
-# expertise:
-#   - title: Python
-#     level: 
-#     color: rgb(247, 205, 182)
+expertise:
+  - title: Python
+    level: 
+    color: rgb(247, 205, 182)
 
-#   - title: R
-#     level: 
-#     color: rgb(113, 178, 222)
+  - title: R
+    level: 
+    color: rgb(113, 178, 222)
 
-#   - title: C
-#     level: 
-#     color: rgb(80, 185, 185)
+  - title: C
+    level: 
+    color: rgb(80, 185, 185)
 
-#   - title: MATLAB
-#     level: 
-#     color: rgb(124, 142, 222)
+  - title: MATLAB
+    level: 
+    color: rgb(124, 142, 222)
 
-#   - title: SQL
-#     level: 
-#     color: rgb(160, 158, 158)
+  - title: SQL
+    level: 
+    color: rgb(160, 158, 158)
 
-#   - title: Tensorflow
-#     level: 
-#     color: rgb(112, 195, 148)
+  - title: Tensorflow
+    level: 
+    color: rgb(112, 195, 148)
 
-#   - title: Keras
-#     level: 
-#     color: rgb(230, 133, 172)
+  - title: Keras
+    level: 
+    color: rgb(230, 133, 172)
 
-#   - title: Pytorch
-#     level: 
-#     color: rgb(200, 133, 172)
+  - title: Pytorch
+    level: 
+    color: rgb(200, 133, 172)
 
-#   - title: Deep Learning
-#     level: 
-#     color: rgb(100, 133, 172)
+  - title: Deep Learning
+    level: 
+    color: rgb(100, 133, 172)
   
-#   - title: Machine Learning
-#     level: 
-#     color: rgb(200, 100, 172)
+  - title: Machine Learning
+    level: 
+    color: rgb(200, 100, 172)
 
