@@ -1,5 +1,5 @@
 ---
-title: Automated Industrial Inspection employing Signal Processing and Computer Vision
+title: Automated Industrial Inspection employing Deep learning and Computer Vision
 image: /assets/images/projects/industry4_schema.png
 # description: Mortgage Payment Calculation Panel App
 # company: Personal Project
@@ -16,7 +16,7 @@ layout: post
 <br/>
 
 ## Why Automated industrial inspection (A-II)?
-Automated industrial inspection (A-II) are computer vision based predictive solutions that are developed by leveraging state-of-art signal processing algorithms and deep learning models. The goal of A-II is to  automate industrial inspections, a critical component of Industry 4.0. Such automations enable to not only improve productivity, but also lead to significant improvements in operational safety. 
+Automated industrial inspection (A-II) are  computer vision based predictive solutions that are developed by leveraging state-of-art deep learning models. The goal of A-II is to  automate industrial inspections, a critical component of Industry 4.0. Such automations enable to not only improve productivity, but also lead to significant improvements in operational safety. 
 
 ## A-II to detect defects
 I've developed an AI based platform along with my team to repurpose this solution along with other components to automatically inspect defects such as cracks, fractures, blockages in wastewater distribution networks for a major customer in North America. A sample detection of cracks and fractures from pipe inspection is shown below.
