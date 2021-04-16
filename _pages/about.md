@@ -7,14 +7,16 @@ description: Ph.D. in Computational Materials Science and Engineering (Universit
 ### Write to me
 <div class="column-2a">
   <h2>Education</h2>
+  <table class="table-style">
       <tr>
-        <td>Ph.D.</td>
-        <td>2019</td>
+        <td>Ph.D. in Computational Materials Science and Engineering (University of New South Wales, Sydney)</td>
+        <td>2016-2019</td>
       </tr>
       <tr>
-        <td>M.Tech</td>
+        <td>M.Tech in Solid State Devices (IIT, Roorke)</td>
         <td>2014-2016</td>
       </tr>
+    </table>
 </div>
 <!-- 
 ### Write to me
