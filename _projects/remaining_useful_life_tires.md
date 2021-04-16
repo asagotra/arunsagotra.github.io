@@ -11,7 +11,7 @@ layout: post
 ## Summary
  Predictive maintenance (PdM) is a popular application of predictive analytics that can help businesses in several industries achieve high asset utilization and savings in operational costs.
 
-![Industry 4.0](/assets/images/projects/rul.png)
+![rul](/assets/images/projects/rul.png)
 <center> <em> AI based estimating RUL framework </em> </center>
 <br/>
 
