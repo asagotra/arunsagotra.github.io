@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /contact/
 description: Ph.D. in Computational Materials Science and Engineering (University of New South Wales, Sydney)
 ---
 <!-- 
