@@ -7,7 +7,6 @@ description: Ph.D. in Computational Materials Science and Engineering (Universit
 ### Write to me
 <div class="column-2a">
   <h2>Education</h2>
-    <table class="table-style">
       <tr>
         <td>Ph.D.</td>
         <td>2019</td>
@@ -16,7 +15,6 @@ description: Ph.D. in Computational Materials Science and Engineering (Universit
         <td>M.Tech</td>
         <td>2014-2016</td>
       </tr>
-    </table>
 </div>
 <!-- 
 ### Write to me
