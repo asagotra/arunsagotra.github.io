@@ -45,7 +45,7 @@ include:
 
 # Google Ananlytics Tracker.
 # Sign up with Google analytics and replce with your analytics ID.
-analytics: G-KR05KEBWZ3 # I (Ram) added this one in google analytics
+analytics: G-KR05KEBWZ3 # I (Arun) added this one in google analytics
 
 # Table of contents in each post
 # Change the value to 'no' if Table of Contents is not required.
